@@ -2794,6 +2794,7 @@ export const ar = defineLocale({
       search: 'البحث عن نموذج...',
       noModels: 'لا توجد نماذج',
       editModels: 'تحرير النماذج',
+      followDefault: 'استخدام الافتراضي من الإعدادات',
       refreshModels: 'تحديث النماذج',
       fast: 'سريع'
     },

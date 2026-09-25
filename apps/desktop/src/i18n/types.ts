@@ -3752,6 +3752,7 @@ export interface Translations {
       search: string
       noModels: string
       editModels: string
+      followDefault: string
       refreshModels: string
       fast: string
     }
